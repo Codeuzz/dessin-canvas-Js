@@ -73,3 +73,12 @@ input:hover {
     border-radius: 10px;
     border: none;
 }
+
+form > button {
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: #2c90fc;
+    color: white;
+
+}
