@@ -6,8 +6,6 @@ Ce projet est à réaliser en solo ou par 2 (indiquer les personnes du groupe).
 
 Le rendu peut se faire soit par un dépôt github (recommandé), soit en le déposant sur l'ide de la 3wa, soit par une archive (mettre votre nom dans l'archive) à envoyer par discord.
 
-Le lien pour les url github et ide : [https://docs.google.com/spreadsheets/d/1FG3mYVUH5kBjLPXZZQVMIb7DD8_pxTwnOaADXVqViBk/edit#gid=0](https://docs.google.com/spreadsheets/d/1FG3mYVUH5kBjLPXZZQVMIb7DD8_pxTwnOaADXVqViBk/edit#gid=0).
-
 ## Objectifs
 
 Réaliser 2 petits projets qui vont utiliser l'API JavaScript Canvas.
