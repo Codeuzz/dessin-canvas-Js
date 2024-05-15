@@ -69,13 +69,13 @@ const saveDrawing = event => {
 }
 
 const loadDrawing = event => {
-    var dataURL = localStorage.getItem("drawing");
-    var img = new Image;
+    let dataURL = localStorage.getItem("drawing");
+    let img = new Image;
     img.src = dataURL;
     img.onload = function () {
-        ctx.drawImage(img, 0, 0);
+    ctx.drawImage(img, 0, 0);
     };
-    event.preventDefault()
+    event.preventDefault();
 }
 
 saveBtn.addEventListener('click', saveDrawing)
