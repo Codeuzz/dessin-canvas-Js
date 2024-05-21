@@ -2,6 +2,10 @@
 body {
     display: flex;
     gap: 10px;
+    background-color: #bedbf7;
+}
+canvas {
+    background-color: white;
 }
 
 
